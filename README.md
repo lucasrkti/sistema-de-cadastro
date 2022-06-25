@@ -4,5 +4,5 @@
 
 > Para rodar este código e aplicação, faça
 .....
-Baixa o Apache
+node log.js
 .....
