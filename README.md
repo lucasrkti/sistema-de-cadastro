@@ -4,6 +4,5 @@
 
 Para rodar este código e aplicação, faça
 
-
-node app.js
+baixe todas as bibliotecas e baixe o repositorio
 
